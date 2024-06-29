@@ -3,7 +3,7 @@
 Это **JEDI** *(джедай)* курс - the **JavaScript Elegant Developer Immersion**
 *(погружение для элегантного JavaScript разработчика)*
 
-![[Kvai Gon Jinn and Obivan Kenobe.png]]
+![alt text](https://github.com/MyNameIsNeXTSTEP/JEDI-course/blob/master/Kvai%20Gon%20Jinn%20and%20Obivan%20Kenobe.png)
 
 Целью курса является погружение обучающихся в современную программную инженерию и разработку, в частности на языке программирования **JavaScript** и в области WEB систем в элегантном стиле, что в свою очередь означает:
 
