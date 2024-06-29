@@ -1,6 +1,6 @@
 **Добро пожаловать !**
 
-Это **JEDI** *(джедай)* курс - the **JavaScript Elegant Developer Immersion**
+Это **JEDI** *(джедай)* курс - the **JavaScript Elegant Developer Immersion**  
 *(погружение для элегантного JavaScript разработчика)*
 
 ![alt text](https://github.com/MyNameIsNeXTSTEP/JEDI-course/blob/master/Kvai%20Gon%20Jinn%20and%20Obivan%20Kenobe.png)
