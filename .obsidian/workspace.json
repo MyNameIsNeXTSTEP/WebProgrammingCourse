@@ -11,9 +11,11 @@
             "id": "e89ca2a43d842725",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Kvai Gon Jinn and Obivan Kenobe.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kvai Gon Jinn and Obivan Kenobe.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kvai Gon Jinn and Obivan Kenobe.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kvai Gon Jinn and Obivan Kenobe.png"
+                "file": "README.md"
               }
             }
           }
@@ -144,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b30f73197bb0d84",
+  "active": "e89ca2a43d842725",
   "lastOpenFiles": [
-    "README.md",
-    "Kvai Gon Jinn and Obivan Kenobe.png"
+    "Kvai Gon Jinn and Obivan Kenobe.png",
+    "README.md"
   ]
 }
