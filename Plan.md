@@ -25,15 +25,15 @@
 		6. Object oriented programming 
 3. WEB working environment
 	1. Client-server WEB applications architecture
-	2. Server
-		1. CDN
-	3. Browser
-		1. HTML
-		2. CSS
-		3. SEO
-		4. Statics & Media
-		5. API
-		6. Dev tools
+		1. Server
+			1. CDN
+		2. Browser
+			1. HTML
+			2. CSS
+			3. SEO
+			4. Statics & Media
+			5. API
+	2. Dev tools
 4. ECMAScript (JavaScript)
 	1. JS core
 	2. JS advanced
@@ -41,7 +41,6 @@
 	1. GIT
 	2. Package managers
 	3. Environment
-	4. Hosts
 	5. Builders
 6. Application Development
 	1. Node
@@ -50,3 +49,6 @@
 	4. Contracts
 	5. Testing
 	6. Redux & other browser-side state managers
+7. Practical project
+	1. Discussions
+	2. Planning
