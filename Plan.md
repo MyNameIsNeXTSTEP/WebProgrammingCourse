@@ -5,7 +5,7 @@
 
 Практическая часть заключается в фиксации знаний, в частности - это домашнее задание, тестовое задание, 
 
-1. [Computer Science](/JEDI-course/tree/master/Computer%20science)
+1. [Computer Science](/Computer%20science)
 	1. Connections & networks:
 		1. Connection levels
 	2. Data exchange:
