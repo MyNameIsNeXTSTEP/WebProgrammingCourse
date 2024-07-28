@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "adcd281f5c46c114",
+        "id": "a20031c23f647077",
         "type": "tabs",
         "children": [
           {
-            "id": "e89ca2a43d842725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c883daf045c08995",
+            "id": "4d3734162d7471b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "5ab78301e6b549d0",
@@ -159,11 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b30f73197bb0d84",
+  "active": "4d3734162d7471b7",
   "lastOpenFiles": [
+    "Computer science/Connections & Networks/Connection levels.md",
+    "Plan.md",
+    "Computer science.md",
+    "Computer Science.md",
+    "Computer.md",
+    "README.md",
+    "Kvai Gon Jinn and Obivan Kenobe.png",
     "Practical project/Planning",
     "Practical project/Discussions.md",
-    "Plan.md",
     "Practical project",
     "Applications development/Browser state managers",
     "Applications development/Testing",
@@ -178,7 +171,6 @@
     "Developer tools/Untitled.md",
     "Developer tools/GIt.md",
     "Developer tools",
-    "ECMAScript (JavaScript)/JS advanced",
     "ECMAScript (JavaScript)/Untitled.md",
     "Developer tools/Browser Dev tools.md",
     "WEB working environment/Client-server architecture/Browser/API.md",
@@ -192,10 +184,6 @@
     "Programming basics/Programming paradigms/Imperative programming.md",
     "Programming basics/Programming paradigms/Logical programming.md",
     "Programming basics/Programming paradigms/Procedural programming.md",
-    "Programming basics/Programming principles/Procedural programming.md",
-    "README.md",
-    "Computer science/Data/Untitled.md",
-    "Computer science/Connections & Networks/Connection levels.md",
-    "Kvai Gon Jinn and Obivan Kenobe.png"
+    "Programming basics/Programming principles/Procedural programming.md"
   ]
 }
