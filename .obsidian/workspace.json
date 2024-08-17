@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7b6b8e5d7c4c18",
+        "id": "af0d56c55a6ddffb",
         "type": "tabs",
         "children": [
           {
-            "id": "4a395b94ec906bab",
+            "id": "5d966944bc77535e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Plan.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -148,16 +150,24 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4a395b94ec906bab",
+  "active": "5d966944bc77535e",
   "lastOpenFiles": [
+    "Computer science/Connections and networks/Untitled.md",
     "Plan.md",
+    "Computer science/Computers as machines/Assembler.md",
+    "Computer science/Computers as machines/Architecture.md",
+    "Computer science/Computers as machines.md",
+    "Computer science/Computers as machines",
+    "Computer science/Information and data representation/Numbers and numbering systems.md",
+    "Computer science/Information and data representation/Bits and bytes.md",
+    "Computer science.md",
+    "Computer science/Information and data representation.md",
+    "Computer science/Information and data representation",
+    "Computer science/Information.md",
     "WEB working environment/Dev tools.md",
     "Abstractions, programming principles and paradigms",
-    "Computer science/Computers as machines.md",
-    "Computer science/Information and data representation.md",
     "Computer science/Computers as machines",
     "Computer science/Information and data representation",
-    "Computer science.md",
     "Computer science/Connections and networks/Connection levels.md",
     "Computer Science.md",
     "Computer.md",
@@ -169,8 +179,6 @@
     "Applications development/Browser state managers",
     "Applications development/Testing",
     "Applications development/Contracts",
-    "Applications development/Docker",
-    "Applications development/React",
     "Developer tools/Builders.md",
     "Developer tools/Environment.md",
     "Developer tools/Package managers.md",
@@ -180,12 +188,6 @@
     "Developer tools/Browser Dev tools.md",
     "WEB working environment/Client-server architecture/Browser/API.md",
     "WEB working environment/Client-server architecture/Browser/Statics & Media.md",
-    "WEB working environment/Client-server architecture/Browser/SEO.md",
-    "WEB working environment/Client-server architecture/Browser/CSS.md",
-    "WEB working environment/Client-server architecture/Browser/HTML.md",
-    "Abstractions, programming principles and paradigms/Programming paradigms/Object oriented programming.md",
-    "Abstractions, programming principles and paradigms/Programming paradigms/Functional programming.md",
-    "Abstractions, programming principles and paradigms/Programming paradigms/Declarative programming.md",
-    "Abstractions, programming principles and paradigms/Programming paradigms/Imperative programming.md"
+    "WEB working environment/Client-server architecture/Browser/SEO.md"
   ]
 }

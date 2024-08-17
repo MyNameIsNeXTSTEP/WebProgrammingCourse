@@ -26,19 +26,18 @@
 ---
 
 1. [Computer Science](/Computer%20science)
-	1. Information and data representation
-		1. Numbers
-		2. Numbering systems
-		3. Bits and bytes
-	3. Computers as machines
-		1. Architecture
-		2. Assembler
-	4. Connections and networks
-		1. Connection levels
-	5. Data exchange
-		1. Data types
-		2. Data structures
-		3. Protocols
+	1. [Information and data representation](/Computer%20science/Information%20and%20data%20representation)
+		1. [Numbers and numbering systems](/Computer%20science/Information%20and%20data%20representation/Numbers%20and%20numbering%20systems)
+		3. [Bits and bytes](/Computer%20science/Information%20and%20data%20representation/Bits%20and%20bytes)
+	3. [Computers as machines](/Computer%20science//Computers%20as%20machines)
+		1. [Architecture](/Computer%20science//Computers%20as%20machines/Architecture)
+		2. [Assembler](/Computer%20science//Computers%20as%20machines/Assembler)
+	4. [Connections and networks](/Computer%20science/Connections%20and%20networks)
+		1. [Connection levels](/Computer%20science/Connections%20and%20networks/Connection%20levels)
+	5. [Data exchange](/Computer%20science/Data%20exchange)
+		1. [Data types](/Computer%20science/Data%20exchange/Data%20types)
+		2. [Data structures](/Computer%20science/Data%20exchange/Data%20structures)
+		3. [Protocols](/Computer%20science/Data%20exchange/Protocols)
 2. Abstractions, programming principles and paradigms
 	1. Programming languages
 	2. Abstractions
