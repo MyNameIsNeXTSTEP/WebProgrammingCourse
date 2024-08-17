@@ -3,16 +3,43 @@
 Теоретическая и практическая части разделены на несколько модулей.
 Первая содержит в конце каждой части этап онлайн обсуждения с преподавателем с вопросами - ответами в свободной форме по пройденным материалам, тестирование.
 
-Практическая часть заключается в фиксации знаний, в частности - это домашнее задание, тестовое задание, 
+Практическая часть заключается в фиксации знаний, в частности - это домашнее задание, тестовое задание.
+
+*Начиная с этого раздела дальнейший контент будет структурирован по темам с названиями (файлы, папки) и основными источниками, вырезками из документации (с переводом) на английском языке в качестве практики международного и профессионального технического языка. Внутренний основной контент будет на русском языке.
+
+---
+
+**Подготовка**
+(как проходить и практиковать данный курс - описывается спикером)
+
+1. Цели
+2. Как будет проходить курс
+3. Темы
+4. Как получить максимум пользы
+6. Многозадачность и скорость
+7. Задания
+8. Ассистент
+10. LMS Платформа
+11. Практика
+12. Книги!
+
+---
 
 1. [Computer Science](/Computer%20science)
-	1. Connections & networks:
+	1. Information and data representation
+		1. Numbers
+		2. Numbering systems
+		3. Bits and bytes
+	3. Computers as machines
+		1. Architecture
+		2. Assembler
+	4. Connections and networks
 		1. Connection levels
-	2. Data exchange:
-		1. Protocols
-		2. Data types
-		3. Data structures
-2. Abstractions & Programming principles, programming paradigms
+	5. Data exchange
+		1. Data types
+		2. Data structures
+		3. Protocols
+2. Abstractions, programming principles and paradigms
 	1. Programming languages
 	2. Abstractions
 	3. Programming principles
