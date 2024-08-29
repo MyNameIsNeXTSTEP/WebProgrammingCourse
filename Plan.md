@@ -38,6 +38,8 @@
 		1. [Data types](/Computer%20science/Data%20exchange/Data%20types)
 		2. [Data structures](/Computer%20science/Data%20exchange/Data%20structures)
 		3. [Protocols](/Computer%20science/Data%20exchange/Protocols)
+	6. [Operational systems](/Computer%20science/Operational%20systems)
+	7. [Standards](/Computer%20science/Standards)
 2. Abstractions, programming principles and paradigms
 	1. Programming languages
 	2. Abstractions

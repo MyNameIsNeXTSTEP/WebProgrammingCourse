@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d97cc6a253f44664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,10 +163,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5d966944bc77535e",
+  "active": "d97cc6a253f44664",
   "lastOpenFiles": [
-    "Computer science/Connections and networks/Untitled.md",
+    "README.md",
     "Plan.md",
+    "Computer science/Standards.md",
+    "Computer science/Operational systems",
+    "Computer science/Connections and networks/Untitled.md",
     "Computer science/Computers as machines/Assembler.md",
     "Computer science/Computers as machines/Architecture.md",
     "Computer science/Computers as machines.md",
@@ -171,14 +187,12 @@
     "Computer science/Connections and networks/Connection levels.md",
     "Computer Science.md",
     "Computer.md",
-    "README.md",
     "Kvai Gon Jinn and Obivan Kenobe.png",
     "Practical project/Planning",
     "Practical project/Discussions.md",
     "Practical project",
     "Applications development/Browser state managers",
     "Applications development/Testing",
-    "Applications development/Contracts",
     "Developer tools/Builders.md",
     "Developer tools/Environment.md",
     "Developer tools/Package managers.md",
@@ -187,7 +201,6 @@
     "ECMAScript (JavaScript)/Untitled.md",
     "Developer tools/Browser Dev tools.md",
     "WEB working environment/Client-server architecture/Browser/API.md",
-    "WEB working environment/Client-server architecture/Browser/Statics & Media.md",
-    "WEB working environment/Client-server architecture/Browser/SEO.md"
+    "WEB working environment/Client-server architecture/Browser/Statics & Media.md"
   ]
 }
