@@ -41,16 +41,16 @@
 	6. [Operational systems](/Computer%20science/Operational%20systems)
 	7. [Standards](/Computer%20science/Standards)
 2. Abstractions, programming principles and paradigms
-	1. Programming languages
-	2. Abstractions
-	3. Programming principles
-	4. Programming paradigms
-		1. Procedural programming
-		2. Logical programming
-		3. Imperative programming
-		4. Declarative programming
-		5. Functional programming
-		6. Object oriented programming 
+	1. [Programming languages](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20languages/)
+	2. [Abstractions](/Abstractions,%20programming%20principles%20and%20paradigms/Abstractions/)
+	3. [Programming principles](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20principles/)
+	4. [Programming paradigms](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms)
+		1. [Procedural programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Procedural%20programming)
+		2. [Logical programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Logical%20programming)
+		3. [Imperative programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Imperative%20programming)
+		4. [Declarative programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Declarative%20programming)
+		5. [Functional programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Functional%20programming)
+		6. [Object oriented programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Object%20oriented%20programming)
 3. WEB working environment
 	1. Client-server WEB applications architecture
 		1. Server
