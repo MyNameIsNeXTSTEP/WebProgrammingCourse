@@ -35,7 +35,7 @@
 	4. [Connections and networks](/Computer%20science/Connections%20and%20networks)
 		1. [Connection levels](/Computer%20science/Connections%20and%20networks/Connection%20levels)
 	5. [Data exchange](/Computer%20science/Data%20exchange)
-		1. [Data types](/Computer%20science/Data%20exchange/Data%20types)
+		1. [2 - Data types](2%20-%20Data%20types.md)
 		2. [Data structures](/Computer%20science/Data%20exchange/Data%20structures)
 		3. [Protocols](/Computer%20science/Data%20exchange/Protocols)
 	6. [Operational systems](/Computer%20science/Operational%20systems)
