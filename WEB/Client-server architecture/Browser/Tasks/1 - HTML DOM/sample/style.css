@@ -1,0 +1,21 @@
+h1 {
+	font-size: 14pt;
+	font-weight: 600;
+	color: dark-dray;
+	margin-bottom: 36px;
+}
+
+p {
+	font-size: 11pt;
+	font-weight: 400;
+	color: black;
+	text-decoration: underline;
+}
+
+#paragraph-container-block {
+	display: block;
+	width: 100%;
+	height: fit-content;
+	padding: 10px;
+	background-color: gray;
+}
