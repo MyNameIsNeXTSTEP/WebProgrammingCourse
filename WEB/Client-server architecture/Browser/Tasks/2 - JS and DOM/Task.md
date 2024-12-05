@@ -30,13 +30,13 @@ numbers.map(num => num * 2);
 ```JavaScript
 // Task 3: Create a dynamic list
 function createList() {
-	const ul = document.createElement('ul');
-	const items = ['Item 1', 'Item 2', 'Item 3'];
-	items.forEach(item => {
-		const li = document.createElement('li');
-		li.textContent = item; ul.appendChild(li);
-	});
-	document.body.appendChild(ul);
+  const ul = document.createElement('ul');
+  const items = ['Item 1', 'Item 2', 'Item 3'];
+  items.forEach(item => {
+    const li = document.createElement('li');
+    li.textContent = item; ul.appendChild(li);
+  });
+  document.body.appendChild(ul);
 };
 // Your task: Modify this function to add delete buttons for each item
 ```
@@ -48,7 +48,7 @@ function createList() {
 const form = document.createElement('form');
 const input = document.createElement('input');
 input.addEventListener('input', (e) => {
-	console.log(e.target.value);
+  console.log(e.target.value);
 });
 // Your task: Add validation that checks if input is empty
 ```
@@ -60,11 +60,11 @@ input.addEventListener('input', (e) => {
 ```JavaScript
 // Task 5: Debug this function
 function calculateTotal(prices) {
-	let total = 0;
-	prices.forEach(price => {
-		total += price;
-	});
-	return total;
+  let total = 0;
+  prices.forEach(price => {
+    total += price;
+  });
+  return total;
 };
 // Add console.log statements to track the total variable
 ```
@@ -74,8 +74,8 @@ function calculateTotal(prices) {
 ```JavaScript
 // Task 6: Add bugs to this code and fix them using DevTools
 function findUser(users, id) {
-	const user = users.find(u => u.id === id);
-	return user.name.toUpperCase();
+  const user = users.find(u => u.id === id);
+  return user.name.toUpperCase();
 };
 
 // Your task: Add error handling and use DevTools to debug
