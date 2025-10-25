@@ -1,5 +1,7 @@
 ## JavaScript WEB Programming Course
 
+![alt text](https://github.com/MyNameIsNeXTSTEP/JEDI-course/blob/master/readme_img.png)
+
 Этот курс - *погружение в современную разработку WEB-систем на JavaScript*.
 
 Целью курса является погружение обучающихся в современную программную инженерию и разработку, в частности на языке программирования **JavaScript** и в области WEB систем (frontend, backend), что в свою очередь означает:
