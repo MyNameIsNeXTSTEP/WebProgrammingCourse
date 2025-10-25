@@ -31,7 +31,7 @@
 		3. [Bits and bytes](/Computer%20science/Information%20and%20data%20representation/Bits%20and%20bytes)
 	3. [Computers as machines](/Computer%20science//Computers%20as%20machines)
 		1. [Architecture](/Computer%20science//Computers%20as%20machines/Architecture)
-		2. [Assembler](/Computer%20science//Computers%20as%20machines/Assembler)
+		2. [Assembler](/Computer%20science/Computers%20as%20machines/Assembler)
 	4. [Connections and networks](/Computer%20science/Connections%20and%20networks)
 		1. [Connection levels](/Computer%20science/Connections%20and%20networks/Connection%20levels)
 	5. [Data exchange](/Computer%20science/Data%20exchange)
@@ -40,7 +40,7 @@
 		3. [Protocols](/Computer%20science/Data%20exchange/Protocols)
 	6. [Operational systems](/Computer%20science/Operational%20systems)
 	7. [Standards](/Computer%20science/Standards)
-2. Abstractions, programming principles and paradigms
+2. [Abstractions, programming principles and paradigms](/Abstractions%2C%20programming%20principles%20and%20paradigms)
 	1. [Programming languages](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20languages/)
 	2. [Abstractions](/Abstractions,%20programming%20principles%20and%20paradigms/Abstractions/)
 	3. [Programming principles](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20principles/)
@@ -51,8 +51,8 @@
 		4. [Declarative programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Declarative%20programming)
 		5. [Functional programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Functional%20programming)
 		6. [Object oriented programming](/Abstractions,%20programming%20principles%20and%20paradigms/Programming%20paradigms/Object%20oriented%20programming)
-3. WEB working environment
-	1. Client-server WEB applications architecture
+3. [WEB](/WEB)
+	1. Client-server architecture
 		1. Server
 			1. CDN
 		2. Browser
